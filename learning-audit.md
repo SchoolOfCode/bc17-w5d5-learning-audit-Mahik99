@@ -9,7 +9,7 @@
 5. Pair programming 🟢
 6. Git and github 🟠
 
-- I know how to use the basic commands, like add, commit, push, pull but I need to refresh my memory on how to create a branch and merge it into the main again. I also need to look at commands like stashing etc and find a cheetsheet that will help me to find and understand github better.
+- I know how to use the basic commands, like add, commit, push, pull but I need to refresh my memory on how to create a branch and merge it into the main again. I also need to look at commands like stashing etc and find a cheetsheet that will help me to find and understand github better. ✅
 
 7. Computational thinking 🟢
 8. 7 step programming 🟢
@@ -37,7 +37,7 @@
 
 2. DOM selectors 🟠
 
-- I need to watch some videos on changing the text and the difference between the .innerHTML and the .textContent property.
+- I need to watch some videos on changing the text and the difference between the .innerHTML and the .textContent property. ✅
 
 3. Button click and Form Submit 🟢
 4. Fetch 🟢
@@ -68,4 +68,4 @@
 5. PostgreSQL and REST API in node 🟢
 6. Environment variables and pg package 🔴
 
-- I still dont think I understand environment variable and the pg package in node, I need to research this more.
+- I still dont think I understand environment variable and the pg package in node, I need to research this more. ✅
